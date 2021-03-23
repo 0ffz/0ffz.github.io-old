@@ -1,0 +1,15 @@
+title: Your awesome title
+description: >-
+  Offz's site
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+timezone: America/Toronto
+
+github:
+  username: 0ffz
+#
+#social:
+#  name: Daniel Voznyy
+#  email: dan.voznyy@gmail.com
+
+avatar: https://www.gravatar.com/avatar/7af819b50328377573baae500caa6e0d?size=400
