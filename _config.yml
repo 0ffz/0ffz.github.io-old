@@ -1,7 +1,7 @@
-title: Daniel Voznyy
+title: Offz's site
+tagline: Welcome!
 description: >-
-  Offz's site
-remote_theme: cotes2020/jekyll-theme-chirpy
+  Offz's site for things
 
 timezone: America/Toronto
 
@@ -16,5 +16,4 @@ social:
 
 avatar: https://www.gravatar.com/avatar/7af819b50328377573baae500caa6e0d?size=400
 
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-chirpy
