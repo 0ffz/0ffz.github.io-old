@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Daniel Voznyy
 description: >-
   Offz's site
 remote_theme: cotes2020/jekyll-theme-chirpy
@@ -7,9 +7,14 @@ timezone: America/Toronto
 
 github:
   username: 0ffz
-#
-#social:
-#  name: Daniel Voznyy
-#  email: dan.voznyy@gmail.com
+
+social:
+  name: Daniel Voznyy
+  email: dan.voznyy@gmail.com
+  links:
+    - https://github.com/0ffz
 
 avatar: https://www.gravatar.com/avatar/7af819b50328377573baae500caa6e0d?size=400
+
+plugins:
+  - jekyll-remote-theme
